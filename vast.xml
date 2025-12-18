@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST version="3.0">
   <Ad>
-    <InLine>
-      <AdSystem>CTF</AdSystem>
-      <AdTitle>Test Ad</AdTitle>
-    </InLine>
+    <Wrapper>
+      <VASTAdTagURI><![CDATA[
+https://webhook.site/d9717ce8-86ff-47da-b6cd-d53c3585c0d3
+      ]]></VASTAdTagURI>
+    </Wrapper>
   </Ad>
 </VAST>
