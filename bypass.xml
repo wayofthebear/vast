@@ -1,0 +1,8 @@
+<VideoClicks>
+  <ClickThrough><![CDATA[
+    https://example.com/
+  ]]></ClickThrough>
+  <ClickTracking><![CDATA[
+    https://webhook.site/YOUR-ID?event=click
+  ]]></ClickTracking>
+</VideoClicks>
