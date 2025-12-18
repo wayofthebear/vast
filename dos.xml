@@ -4,7 +4,7 @@
     <Wrapper>
       <AdSystem>Tripwire</AdSystem>
       <VASTAdTagURI><![CDATA[
-        https://YOUR-HOST/wrapper.xml
+        https://raw.githubusercontent.com/wayofthebear/vast/refs/heads/main/dos.xml
       ]]></VASTAdTagURI>
     </Wrapper>
   </Ad>
