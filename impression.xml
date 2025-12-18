@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="ssrf-tripwire">
+    <InLine>
+      <AdSystem>Tripwire</AdSystem>
+      <AdTitle>SSRF_TRIPWIRE</AdTitle>
+
+      <Impression><![CDATA[
+        https://webhook.site/d9717ce8-86ff-47da-b6cd-d53c3585c0d3?probe=impression
+      ]]></Impression>
+
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:05</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360"><![CDATA[
+                https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
+              ]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
